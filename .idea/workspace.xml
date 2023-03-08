@@ -7,6 +7,7 @@
     <list default="true" id="56480269-7b3e-4ce4-9f77-90d2bcc548c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/accounts-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/accounts-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loans-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/loans-prod.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/kferrer/Desktop/microservice-practice-config/microservices-practice-configs"
+    "last_opened_file_path": "/home/kferrer/Desktop/eazybytes microservice/microservices-with-spring-sectionwise-code/section8"
   }
 }]]></component>
   <component name="RunManager">
